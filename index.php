@@ -1,4 +1,4 @@
-<?php require('modelo/conexion.php'); ?>
+﻿<?php require('modelo/conexion.php'); ?>
 <html>
 	<head>
 		<title>Login</title>
